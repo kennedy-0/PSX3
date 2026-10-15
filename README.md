@@ -37,6 +37,11 @@ Crie e ative o ambiente virtual no Linux:
 python3 -m venv venv
 source venv/bin/activate
 ```
+Instale as dependências:
+```bash
+pip install pygame
+pip install vgamepad
+```
 ## ▶️ Execução
 
 ```bash
