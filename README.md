@@ -45,7 +45,7 @@ pip install vgamepad
 ## ▶️ Execução
 
 ```bash
-python src/main.py
+python src/psx3.py
 ```
 
 Conecte seu joystick antes de iniciar o programa.
